@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/20.4.27/miui_MIMIX3_20.4.27_8f7879221b_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://cdnorg.d.miui.com/OS1.0.24.1.29.DEV/miui_UNICORN_OS1.0.24.1.29.DEV_9b1d638c99_14.0.zip
+  ROM_NAME: HyperOS
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
